@@ -1,3 +1,4 @@
+![logo](https://github.com/Sphl-Sth/Sphl-Sth/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Sophil Sthapit</h1>
 <h3 align="center">A passionate BCA - Cyber Security Student</h3>
 
