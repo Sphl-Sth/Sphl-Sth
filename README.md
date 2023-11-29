@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sphl-sth&label=Profile%20views&color=0e75b6&style=flat" alt="sphl-sth" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I finished my **Full Stack Web Development**
 - 🌱 I’m currently learning **Kali Linux**
 - 🌱 I’m currently learning **Ethical Hacking**
 
